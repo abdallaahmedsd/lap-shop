@@ -1,0 +1,12 @@
+﻿/* Style the dropdown and options */
+.form-control {
+    background-color: #333; /* Dark background */
+    color: #f0f0f0; /* Light gray text for better contrast */
+    border: 1px solid #555; /* Border color */
+    font-weight: bold; /* Bold text */
+}
+
+    .form-control option {
+        background:gray;
+        color: black; /* White text for options */
+    }
